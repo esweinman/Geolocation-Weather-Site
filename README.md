@@ -30,4 +30,4 @@ To see the website in action go to this website: https://esweinman.github.io/Geo
 7. Return your 'Location' to 'No Override'
 ![7](https://user-images.githubusercontent.com/42321648/108441032-478fe800-7222-11eb-9d55-c3124086421e.png)
 
-<h2>Thanks for taking a look at my first React project!</h2>    
+<h2>Thanks for taking a look at my project!</h2>    
